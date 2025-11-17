@@ -1,3 +1,3 @@
 # Parallel-Brain-Computing
 
-Bio-computing with intefrated  the xAGI
+Bio-computing with integrated  the xAGI, which  that multi-intelligence.
